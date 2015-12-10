@@ -1,0 +1,1 @@
+gSOAP 2.8.7 User Guide 翻译
